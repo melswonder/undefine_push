@@ -2,8 +2,10 @@
 
 GitHubの活動履歴を自動で作成するためのスクリプトです。指定した期間（2024年10月21日〜2025年6月19日）にわたって、毎日ランダムな回数のコミットを自動的に生成します。
 
+- before
+![Image](https://github.com/user-attachments/assets/904ffdde-f834-4c39-80d4-5c38b0151fe2)
 
-
+- after
 ![Image](https://github.com/user-attachments/assets/9f518566-287d-4cd0-bdec-c1b39eb1ce6e)
 
 ## 機能
